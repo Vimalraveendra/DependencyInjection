@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{10ADB5C5-D664-435A-B148-7BE68603AFE2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyInjection/Model/IRepository.cs">
+    <Files>
+      <File FileName="DependencyInjection/Model/Product.cs" Line="10" Column="1" />
+      <File FileName="DependencyInjection/Model/IRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DependencyInjection" expanded="True">
+            <Node name="DependencyInjection" expanded="True">
+              <Node name="Model" expanded="True">
+                <Node name="IRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DependencyInjection FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
