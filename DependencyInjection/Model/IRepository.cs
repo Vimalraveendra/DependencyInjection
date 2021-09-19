@@ -11,6 +11,6 @@ namespace DependencyInjection.Model
 
         void AddProduct(Product product);
 
-        void DeleteProduct(Product product);
+        void DeleteProduct(Product product);    
     }
 }
