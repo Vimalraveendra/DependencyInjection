@@ -1,18 +1,20 @@
 ﻿<Properties StartupConfiguration="{10ADB5C5-D664-435A-B148-7BE68603AFE2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyInjection/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyInjection/Controllers/HomeController.cs">
     <Files>
       <File FileName="DependencyInjection/Model/Product.cs" Line="10" Column="1" />
       <File FileName="DependencyInjection/Model/IRepository.cs" Line="14" Column="49" />
       <File FileName="DependencyInjection/Model/Repository.cs" Line="33" Column="43" />
-      <File FileName="DependencyInjection/Startup.cs" Line="19" Column="23" />
+      <File FileName="DependencyInjection/Startup.cs" Line="53" Column="1" />
+      <File FileName="DependencyInjection/Controllers/HomeController.cs" Line="16" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DependencyInjection" expanded="True">
             <Node name="DependencyInjection" expanded="True">
-              <Node name="Model" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
